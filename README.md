@@ -11,8 +11,8 @@ Click [here](https://github.com/cissagatto/Multi-label-classification-using-netw
 You can run this experiment in Conda Environment. The environment name is "AmbienteTeste". To be able to use this env you must first install conda in your computer or cluster and then install the env using the following command: *conda env create --file AmbienteTeste.yaml*. To activate use "conda activate AmbienteTeste"
 
 ### Singularity
-You can also run this experiment in a singularity container. Download the recipes and follow this tutorial (in portuguese): https://prensa.li/@cissa.gatto/tutorial-como-criar-um-container-singularity-para-executar-scripts-r-com-java-e-rclone
-
+You can also run this experiment in a singularity container. Download the recipes and follow this [tutorial](https://prensa.li/@cissa.gatto/tutorial-como-criar-um-container-singularity-para-executar-scripts-r-com-java-e-rclone
+) (in portuguese)
 
 ## CODE EXPERIMENTS
 
@@ -117,55 +117,55 @@ Random 3: https://github.com/cissagatto/Random3-ECC
 
 ### Generated Partitions
 
-All Possible Partitions (Bell Number): https://www.4shared.com/folder/ewyzVyTz/Bell-Partitions.html
+[All Possible Partitions](https://www.4shared.com/folder/ewyzVyTz/Bell-Partitions.html)
 
-Jaccard index: https://www.4shared.com/folder/fwM4omvr/Jaccard.html
+[Jaccard index](https://www.4shared.com/folder/fwM4omvr/Jaccard.html)
 
-Kohonen - SOM: https://www.4shared.com/folder/DfVTAEs0/Kohonen.html
+[Kohonen](https://www.4shared.com/folder/DfVTAEs0/Kohonen.html)
 
-Random 1: https://www.4shared.com/folder/xCeyWh9j/Random1.html
+[Random 1](https://www.4shared.com/folder/xCeyWh9j/Random1.html)
 
-Random 2: https://www.4shared.com/folder/vlpgBMO0/Random2.html
+[Random 2](https://www.4shared.com/folder/vlpgBMO0/Random2.html)
 
-Random 3: https://www.4shared.com/folder/thGcQUx4/Random3.html
+[Random 3](https://www.4shared.com/folder/thGcQUx4/Random3.html)
 
 
 ### Best Selected Partitions
 
 __HPML-J__
 
-- Macro-F1: 
+Macro-F1
 
-- Micro-F1: 
+Micro-F1 
 
-- Silhouette: 
+[Silhouette]( https://www.4shared.com/folder/7tXqwmBt/Silhueta.html)
 
 
 __HPML-K:__ 
 
-- Macro-F1: 
+Macro-F1
 
-- Micro-F1: 
+Micro-F1
 
-- Silhouette: https://www.4shared.com/folder/xLuqlfRG/Silhueta.html
+[Silhouette](https://www.4shared.com/folder/xLuqlfRG/Silhueta.html)
 
 
 __Random1:__
 
-- Macro-F1: 
+Macro-F1
  
-- Micro-F1: 
+Micro-F1
 
-- Silhouette: https://www.4shared.com/folder/c_bzHqnw/Silhueta.html
+[Silhouette](https://www.4shared.com/folder/c_bzHqnw/Silhueta.html)
 
 
 __Random 2:__
 
-- Macro-F1: 
+Macro-F1
 
-- Micro-F1: 
+Micro-F1
 
-- Silhouette: https://www.4shared.com/folder/uUVc8R3m/Silhueta.html
+[Silhouette](https://www.4shared.com/folder/uUVc8R3m/Silhueta.html)
 
 
 __Random 3:__ 
@@ -173,13 +173,13 @@ __Random 3:__
 
 ### Tested Results
 
-Oracle (entire process): https://www.4shared.com/folder/GwnoBkN0/Oracle-ECC.html
+[Oracle](https://www.4shared.com/folder/GwnoBkN0/Oracle-ECC.html)
 
-Exhaustive (entire process): https://www.4shared.com/folder/AIHeEZuf/Exhaustive-ECC.html
+[Exhaustive](https://www.4shared.com/folder/AIHeEZuf/Exhaustive-ECC.html)
 
-Global: https://www.4shared.com/folder/Y8yG4d8l/Global-ECC.html
+[Global](https://www.4shared.com/folder/Y8yG4d8l/Global-ECC.html)
 
-Local: https://www.4shared.com/folder/8fwOkdEa/Local-ECC.html 
+[Local](https://www.4shared.com/folder/8fwOkdEa/Local-ECC.html)
 
 
 ## Acknowledgment
