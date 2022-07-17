@@ -134,38 +134,38 @@ Random 3: https://github.com/cissagatto/Random3-ECC
 
 __HPML-J__
 
-Macro-F1
+- Macro-F1 
+ 
+- Micro-F1
 
-Micro-F1 
-
-[Silhouette]( https://www.4shared.com/folder/7tXqwmBt/Silhueta.html)
+- [Silhouette]( https://www.4shared.com/folder/7tXqwmBt/Silhueta.html)
 
 
 __HPML-K:__ 
 
-Macro-F1
+- Macro-F1 
+ 
+- Micro-F1
 
-Micro-F1
-
-[Silhouette](https://www.4shared.com/folder/xLuqlfRG/Silhueta.html)
+- [Silhouette](https://www.4shared.com/folder/xLuqlfRG/Silhueta.html)
 
 
 __Random1:__
 
-Macro-F1
+- Macro-F1 
  
-Micro-F1
+- Micro-F1
 
-[Silhouette](https://www.4shared.com/folder/c_bzHqnw/Silhueta.html)
+- [Silhouette](https://www.4shared.com/folder/c_bzHqnw/Silhueta.html)
 
 
 __Random 2:__
 
-Macro-F1
+- Macro-F1
 
-Micro-F1
+- Micro-F1
 
-[Silhouette](https://www.4shared.com/folder/uUVc8R3m/Silhueta.html)
+- [Silhouette](https://www.4shared.com/folder/uUVc8R3m/Silhueta.html)
 
 
 __Random 3:__ 
@@ -173,13 +173,13 @@ __Random 3:__
 
 ### Tested Results
 
-[Oracle](https://www.4shared.com/folder/GwnoBkN0/Oracle-ECC.html)
+- [Oracle](https://www.4shared.com/folder/GwnoBkN0/Oracle-ECC.html)
 
-[Exhaustive](https://www.4shared.com/folder/AIHeEZuf/Exhaustive-ECC.html)
+- [Exhaustive](https://www.4shared.com/folder/AIHeEZuf/Exhaustive-ECC.html)
 
-[Global](https://www.4shared.com/folder/Y8yG4d8l/Global-ECC.html)
+- [Global](https://www.4shared.com/folder/Y8yG4d8l/Global-ECC.html)
 
-[Local](https://www.4shared.com/folder/8fwOkdEa/Local-ECC.html)
+- [Local](https://www.4shared.com/folder/8fwOkdEa/Local-ECC.html)
 
 
 ## Acknowledgment
